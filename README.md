@@ -1,3 +1,4 @@
+
 This is my summary of the Thinking in Systems, by Donella H. Meadows.
 
 Contributions: Issues, comments and pull requests are super welcome 😃
@@ -37,7 +38,22 @@ Contributions: Issues, comments and pull requests are super welcome 😃
  -  System structure is the source of system behavior. System behavior reveals itself as a series of events over time.
  -  A stock is the memory of the history of changing flows within the system.
  - If the sum of infl ows exceeds the sum of outflows, the stock level will rise.
- - If the sum of outflows exceeds the sum of infl ows, the stock level will fall.
+ - If the sum of outflows exceeds the sum of inflows, the stock level will fall.
  - If the sum of outflows equals the sum of inflows, the stock level will not change — it will be held in dynamic equilibrium.
  - A stock can be increased by decreasing its outflow rate as well as by increasing its inflow rate.
+ - A stock takes time to change, because flows take time to flow.
+ - Stocks generally change slowly, even when the flows into or out of them change suddenly. Therefore, stocks act as delays or buffers or shock absorbers in systems.
+ - Changes in stock set the pace of the dynamics of systems.
+ - The time lags imposed by stocks allow room to maneuver, to experiment, and to revise policies that aren't working.
+ - Stocks allow inflows and outflows to be decoupled and to be independent and temporarily out of balance with each other.
+ - Most individuals and institutional decisions are designed to regulate the levels in stocks.
+ - Systems thinkers see the world as a collection of stocks along with the mechanisms for regulating the levels in the stocks by manipulating flows.
+ - A feedback loop is formed when changes in a stock affect the flows into ot out of that same stock.
+ - Feedback loops can cause stocks to maintain their level within a range or grow or decline.
+ - A feedback loop is a closed chain of causal connections from a stock, through a set of decisions or rules or physical laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock.
+ - A balancing feedback loop is a kind of stablizing, goal-seeking, regulating loop.
+ - Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change.
+ - Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runway collapses over time. They are found whenever a stock has the capacity or reproduce itself.
+ - **Think about this: If A causes B, is it possible that B also causes A?**
+ - Complex systems do much more than stay steady or explode exponentially or approach goals smoothly.
 
