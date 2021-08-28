@@ -1,4 +1,5 @@
 
+
 This is my summary of the Thinking in Systems, by Donella H. Meadows.
 
 Contributions: Issues, comments and pull requests are super welcome 😃
@@ -57,3 +58,8 @@ Contributions: Issues, comments and pull requests are super welcome 😃
  - **Think about this: If A causes B, is it possible that B also causes A?**
  - Complex systems do much more than stay steady or explode exponentially or approach goals smoothly.
 
+# Chapter 2. A Brief Visit to the Systems Zoo
+
+ - One good way to learn something new is through specific examples rather than abstractions and generalities.
+ - The information delivered by a feedback loop - even nonphysical feedback - can only affect future behavior; it can't deliver a signal fast enough to correct behavior that drove the current feedback. Even nonphysical information takes time to feedback into the system.
+ - A stock-maintaining balance feddback loop must have its goal set appropriately to compensate for draining or inflowing processes that affect that stock. Otherwise, the feedback process will fall short of or exceed the target for the stock.
