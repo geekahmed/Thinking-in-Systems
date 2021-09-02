@@ -1,5 +1,6 @@
 
 
+
 This is my summary of the Thinking in Systems, by Donella H. Meadows.
 
 Contributions: Issues, comments and pull requests are super welcome 😃
@@ -63,3 +64,11 @@ Contributions: Issues, comments and pull requests are super welcome 😃
  - One good way to learn something new is through specific examples rather than abstractions and generalities.
  - The information delivered by a feedback loop - even nonphysical feedback - can only affect future behavior; it can't deliver a signal fast enough to correct behavior that drove the current feedback. Even nonphysical information takes time to feedback into the system.
  - A stock-maintaining balance feddback loop must have its goal set appropriately to compensate for draining or inflowing processes that affect that stock. Otherwise, the feedback process will fall short of or exceed the target for the stock.
+ - Complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate behavior.
+ - Questions for testing the value of the model
+	 - Are the driving factors likely to unfold this way?
+	 - If they did, would the system react this way?
+	 - What is driving the driving factors?
+ - System dynamics models explore possible futures and ask "what if" questions.
+ - Model utility depends not on whether its driving scenarios are realistic, but on whether it responds with a realistic pattern behavior.
+ - Systems with similar feedback structures produce similar dynamic behaviors, even if the outward appearance of these systems is completely dissimilar.
