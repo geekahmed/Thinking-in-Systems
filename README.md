@@ -1,6 +1,7 @@
 
 
 
+
 This is my summary of the Thinking in Systems, by Donella H. Meadows.
 
 Contributions: Issues, comments and pull requests are super welcome 😃
@@ -72,3 +73,10 @@ Contributions: Issues, comments and pull requests are super welcome 😃
  - System dynamics models explore possible futures and ask "what if" questions.
  - Model utility depends not on whether its driving scenarios are realistic, but on whether it responds with a realistic pattern behavior.
  - Systems with similar feedback structures produce similar dynamic behaviors, even if the outward appearance of these systems is completely dissimilar.
+ - A delay in a balancing feedback loop makes a system likely to oscillate.
+ - Delays are pervasive in systems, and they are strong determinants of behavior. Changing the length of a delay may (or may not, depending on the type of delay and the relative lengths of other delays) make a large change in the behavior of a system.
+ - We can't start begin to understand the dynamic behavior of systems unless we know where and how long the delays are.
+ - Economics are extremely complex systems; they are full of balancing feedback loops with delays, and they are inherently oscillatory.
+ - In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constrainting the growth, because no physical system can grow forever in a finite environment.
+ - A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time.
+ - The higher and faster you grow, the farther and faster you fall. 
