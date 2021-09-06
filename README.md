@@ -80,3 +80,5 @@ Contributions: Issues, comments and pull requests are super welcome 😃
  - In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constrainting the growth, because no physical system can grow forever in a finite environment.
  - A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time.
  - The higher and faster you grow, the farther and faster you fall. 
+ - Nonrenewable resources are stock-limited. The entire stock is available at once, and can be extracted at any rate (limited mainly by extraction capital). But since the stock is not renewed, the faster the extraction rate, the shorter the lifetime of the resource.
+ - Renewable resources are flow-limited. They can support extraction or harvest indefinitely, but only at a finite rate equal to their regeneration rate. If they regenerate, they may eventually be driven below a critical threshold and become, for all practical purposes, nonrenewable.
