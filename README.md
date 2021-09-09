@@ -2,6 +2,7 @@
 
 
 
+
 This is my summary of the Thinking in Systems, by Donella H. Meadows.
 
 Contributions: Issues, comments and pull requests are super welcome 😃
@@ -10,7 +11,7 @@ Contributions: Issues, comments and pull requests are super welcome 😃
 - [Table of Contents](#table-of-contents)
 - [Chapter 1. The Basics](#chapter-1-the-basics)
 - [Chapter 2. A Brief Visit to the Systems Zoo](#chapter-2-a-brief-visit-to-the-systems-zoo)
-- [Chapter 3. Why Systems Work So Well ](#chapter-3-why-systems-work-so-well)
+- [Chapter 3. Why Systems Work So Well](#chapter-3-why-systems-work-so-well)
 - [Chapter 4. Why Systems Surprise Us](#chapter-4-why-systems-surprise-us)
 - [Chapter 5. System Traps . . . and Opportunities](#chapter-5-systems-traps-and-opportunities)
 - [Chapter 6. Leverage Points—Places to Intervene in a System ](#chapter-6-leverage-points-places-to-intervence-in-a-system)
@@ -82,3 +83,22 @@ Contributions: Issues, comments and pull requests are super welcome 😃
  - The higher and faster you grow, the farther and faster you fall. 
  - Nonrenewable resources are stock-limited. The entire stock is available at once, and can be extracted at any rate (limited mainly by extraction capital). But since the stock is not renewed, the faster the extraction rate, the shorter the lifetime of the resource.
  - Renewable resources are flow-limited. They can support extraction or harvest indefinitely, but only at a finite rate equal to their regeneration rate. If they regenerate, they may eventually be driven below a critical threshold and become, for all practical purposes, nonrenewable.
+
+# Chapter 3. Why Systems Work So Well
+- Resilience is the ability to bounce or spring back into shape, position, etc., after being pressed or stretched. Elasticity. The ability to recover strength, spirits, good humor, or any other aspect quickly.
+- Resilience is a measure of a system's ability to survive and persist within a variable environment.
+- There are always limits to resilience.
+	- Human body cannot resist death.
+- Resilience is not the same thing as being static or constant over time.
+- Resilient systems can be very dynamic.
+	- Short-term oscillations.
+	- Periodic outbreaks.
+	- long cycle of succession.
+	- Climax.
+	- Collapse.
+- Systems that are constant over time can be unresilient.
+- Systems need to be managed not only for productivity or stability, they also need to be managed for resilience - the ability to recover from perturbation, the ability to restore or repair themselves.
+- Awareness of resilience enables one to see many ways to preserve or enhance s system's own restorative powers.
+- There is a distniction between resilience and static stability.
+	- Static stability is something you can see; it is measured by variation in the condition of a system.
+	- Resilience is something that may be very hard to see, unless you exceed it limits, overwhelm and damage the balancing loops, and the system structure breaks down.
