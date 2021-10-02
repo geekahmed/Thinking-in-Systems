@@ -1,10 +1,4 @@
-
-
-
-
-
 This is my summary of the Thinking in Systems, by Donella H. Meadows.
-
 Contributions: Issues, comments and pull requests are super welcome 😃
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Table of Contents
@@ -102,3 +96,12 @@ Contributions: Issues, comments and pull requests are super welcome 😃
 - There is a distniction between resilience and static stability.
 	- Static stability is something you can see; it is measured by variation in the condition of a system.
 	- Resilience is something that may be very hard to see, unless you exceed it limits, overwhelm and damage the balancing loops, and the system structure breaks down.
+- Systems often have the property of self-organization, the ability to structure themselves, to create new structure, to learn, diversify, and complexify.
+	- Even complex forms of self-organization may arise from relatively simple organizing rules, or may not.
+- Hirerachy is genereted during the process of creating new structures and increasing complexity.
+- The behavior of suboptimization results when a subsystem's goals dominate at the expense of the total system's goals.
+- To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system.
+	- There must be enough central control to achieve coordination toward the large-system goal,
+	- and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing.
+- Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hirerachy is to serve the purposes of the lower layers.
+- Dynamic systems work well due to resilience, self-organization, and hierarchy.
